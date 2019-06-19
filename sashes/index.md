@@ -15,5 +15,3 @@ Let your Ms. Kinky Scout pride show! Please feel free to wear your sash to appro
 
 <a href="/sashes/patches/" class="btn">Patches</a> <a href="/sashes/pins/" class="btn">Pins</a>
 
-
-

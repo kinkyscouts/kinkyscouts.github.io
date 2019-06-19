@@ -35,3 +35,5 @@ These patches are distributed on a case-by-case basis for special events (exampl
 * Summer Camp 2016
 * Snow Camping 2017
 * Summer Camp 2018
+
+![Sewing Patches](../../assets/img/sewing.jpg "Sewing Patches")

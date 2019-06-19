@@ -10,6 +10,8 @@ Each time we hold a monthly meeting, we alternate between earning class patches 
 ### Patch Meetings
 At our patch meetings, we offer educational classes on a variety of subjects. We encourage a hands-on approach to learning and earning patches to your sash. These meetings are a great opportunity to explore kinks you might not otherwise have experienced and build on practical skills.  
 
+![Fire Play Workshop](../assets/img/workshop.jpg "Fire Play Workshop")
+
 ### Buffer Meetings 
 During our monthly meetings where we do not earn class patches, we gather for buffer meetings. Buffer meetings can be a variety of gatherings including off-site field trips, themed parties, or a chance to focus on getting to know other Scouts. 
 
@@ -43,3 +45,5 @@ Outside of our monthly meetings, the Denver Ms. Kinky Scouts gather for a variet
 **Colorado Leather Fest** – Scouts have volunteered to help with registration, picking up presenters from the airport, and checking badges at the door during this popular event.  
 
 **Beer Bust Fundraisers** – These lively and busy fundraisers are a great opportunity to support various organizations within our communities. Scouts have helped pour beer and place wristbands at these events. 
+
+![Glow in the Dark Party](../assets/img/events.jpg "Glow in the Dark Party")
