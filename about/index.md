@@ -20,6 +20,3 @@ At each meeting, we collect $5 for monthly dues at the door from each Scout. The
 Finding welcoming, kink-friendly venues like the one we currently have can be a challenge. The Denver Ms. Kinky Scouts are grateful to have a large, safe space to meet each month. We enthusiastically encourage any donations (ideally $5 a meeting) to help keep the lights on and the building warm. 
 
 Please do not let a lack of funds discourage you from checking out a meeting. We will work with you if money is an issue.    
-
-### Coordinators and Members
-Do we want to add an about section with leaders and long-term members? This would be something optional. Each person would need to opt in and write their own description. Photos do not have to include faces. Can we set a deadline for the girls if so? 
