@@ -1,22 +1,22 @@
 # Site navigation links
 
 - title: Meetings
-  url: meetings/
+  url: /meetings/
 
 - title: Photos
-  url: photos/
+  url: /photos/
 
 - title: Frequently Asked Questions
-  url: faq/
+  url: /faq/
 
 - title: Community Resources
-  url: community/
+  url: /community/
 
 - title: Contact Us
-  url: contact/
+  url: /contact/
 
 # - title: The Voices of Scouts
-#   url: voices/
+#   url: /voices/
 
 # - title: The Denver Scene History Project
-#   url: history/
+#   url: /history/

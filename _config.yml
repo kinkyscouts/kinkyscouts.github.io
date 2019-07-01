@@ -8,9 +8,9 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://kinkyscouts.com/
-# url:                https://kinkyscouts.github.io/
-# url:                http://0.0.0.0:4000/
+url:                http://kinkyscouts.com
+# url:                https://kinkyscouts.github.io
+# url:                http://0.0.0.0:4000
 
 # Jekyll
 permalink:          /:title/
